@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns:moz="http://www.mozilla.org/2006/browser/search/"
+                       xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName><![CDATA[Free Porn – Porn Tube @ Dino Tube]]></ShortName>
+    <Description><![CDATA[Big collection of free porn videos, DinoTube, the #1 XXX site. Over 10 million free porn videos, watch &#039;em now!]]></Description>
+    <Tags><![CDATA[]]></Tags>
+
+    <Url method="get" type="text/html" rel="results"
+         template="https://www.dinotube.com/searching/?queryString={searchTerms}"/>
+
+    <OutputEncoding>UTF-8</OutputEncoding>
+    <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>
